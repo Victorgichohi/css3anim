@@ -1,2 +1,1 @@
-# css3anim
-css3 animations
+#this project contains css3 animations

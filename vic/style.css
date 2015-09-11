@@ -18,12 +18,12 @@ h2{
 
 }
 .thetriangle{
-    background-color:white;
+
     width: 0;
     height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-bottom: 100px solid red;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-bottom: 140px solid white;
 
 }
 .square{
@@ -66,4 +66,10 @@ h2{
     margin-right: 500px;
     margin-left: 900px;
     top:20%;
+}
+.thecircle{
+background-color: white;
+    width: 100px;
+    height: 100px;
+   border-radius: 90px;
 }

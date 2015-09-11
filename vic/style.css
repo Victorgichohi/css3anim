@@ -18,7 +18,7 @@ h2{
 
 }
 .thetriangle{
-
+    margin-top:10px;
     width: 0;
     height: 0;
     border-left: 90px solid transparent;
@@ -27,6 +27,7 @@ h2{
 
 }
 .square{
+
     position: absolute;
     background-color: blue;
     border:solid 3px;
@@ -38,6 +39,7 @@ h2{
 
 }
 .thesquare{
+    margin-top:10px;
     background-color: white;
     width:100px;
     height:100px;
@@ -54,11 +56,13 @@ h2{
     top:20%;
 }
 .therectangle{
+    margin-top:10px;
     width: 200px;
     height: 100px;
     background-color: white;
 }
 .circle{
+
     position: absolute;
     background-color: red;
 
@@ -68,6 +72,7 @@ h2{
     top:20%;
 }
 .thecircle{
+    margin-top:10px;
 background-color: white;
     width: 100px;
     height: 100px;

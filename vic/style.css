@@ -10,6 +10,9 @@ h2{
     color:red;
 
 }
+h3{
+    text-align: center;
+}
 .triangle{
     background-color: green;
     border:solid 3px;
@@ -21,17 +24,23 @@ h2{
     margin-top:10px;
     width: 0;
     height: 0;
+
     border-left: 90px solid transparent;
     border-right: 90px solid transparent;
     border-bottom: 140px solid white;
-
 }
+.thetriangle p{
+    position:absolute;
+    top:25%;
+    left:5%;
+}
+
 .square{
 
     position: absolute;
     background-color: blue;
     border:solid 3px;
-     margin:3px;
+    margin:3px;
     margin-left: 300px;
     margin-right: px;
     margin-bottom:30px;
@@ -44,6 +53,11 @@ h2{
     width:100px;
     height:100px;
     margin-left:30px;
+}
+.thesquare p{
+    position:absolute;
+    top:25%;
+    left:5%;
 }
 
 .rect{
@@ -61,6 +75,11 @@ h2{
     height: 100px;
     background-color: white;
 }
+.therectangle p{
+    position:absolute;
+    top:25%;
+    left:5%;
+}
 .circle{
 
     position: absolute;
@@ -77,4 +96,9 @@ background-color: white;
     width: 100px;
     height: 100px;
    border-radius: 90px;
+}
+.thetcircle p{
+    position:absolute;
+    top:25%;
+    left:5%;
 }

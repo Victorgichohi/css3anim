@@ -103,9 +103,28 @@ background-color: white;
     left:8%;
 }
 .firstcircle{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+   border-radius: 90px;
 
 }
 .secondcircle{
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+   border-radius: 90px;
+    margin-left:200px;
+    top:57%;
 }
 .thirdcircle{
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+   border-radius: 90px;
+    margin-left:400px;
+    top: 57%;
 }
+

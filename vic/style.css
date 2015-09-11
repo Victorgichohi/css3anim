@@ -13,16 +13,20 @@ h2{
 .triangle{
     background-color: green;
     border:solid 3px;
+    margin:3px;
 }
 .square{
     background-color: blue;
     border:solid 3px;
+     margin:3px;
 }
 .rect{
     background-color: yellow;
     border:solid 3px;
+     margin:3px;
 }
 .circle{
     background-color: red;
+     margin:3px;
     border:solid 3px;
 }

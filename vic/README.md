@@ -1,1 +1,2 @@
-#this project contains css3 animations
+#CSS3 SHAPES
+this project contains **css3 shapes**

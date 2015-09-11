@@ -57,7 +57,7 @@ h3{
 .thesquare p{
     position:absolute;
     top:25%;
-    left:5%;
+
 }
 
 .rect{
@@ -77,8 +77,8 @@ h3{
 }
 .therectangle p{
     position:absolute;
-    top:25%;
-    left:5%;
+    top:15%;
+    left:19%;
 }
 .circle{
 
@@ -97,8 +97,8 @@ background-color: white;
     height: 100px;
    border-radius: 90px;
 }
-.thetcircle p{
+.thecircle p{
     position:absolute;
-    top:25%;
-    left:5%;
+    top:15%;
+    left:8%;
 }

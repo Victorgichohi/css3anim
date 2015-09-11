@@ -14,19 +14,35 @@ h2{
     background-color: green;
     border:solid 3px;
     margin:3px;
+    margin-right: 1050px;
+
 }
 .square{
+    position: absolute;
     background-color: blue;
     border:solid 3px;
      margin:3px;
+    margin-left: 300px;
+    margin-right: 900px;
+    margin-bottom:30px;
+    top:20%;
+
 }
 .rect{
+    position: absolute;
     background-color: yellow;
     border:solid 3px;
      margin:3px;
+    margin-left: 500px;
+    margin-right: 700px;
+    top:20%;
 }
 .circle{
+    position: absolute;
     background-color: red;
      margin:3px;
     border:solid 3px;
+    margin-right: 500px;
+    margin-left: 700px;
+    top:20%;
 }

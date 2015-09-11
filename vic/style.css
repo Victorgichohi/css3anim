@@ -1,5 +1,6 @@
 .gray{
     background-color:grey;
+    height:500px;
 
 }
 .title{
@@ -103,7 +104,8 @@ background-color: white;
     left:8%;
 }
 .firstcircle{
-    background-color: white;
+    top:57%;
+   position: absolute;
     width: 100px;
     height: 100px;
    border-radius: 90px;
@@ -111,7 +113,7 @@ background-color: white;
 }
 .secondcircle{
     position: absolute;
-    background-color: white;
+
     width: 100px;
     height: 100px;
    border-radius: 90px;
@@ -120,7 +122,7 @@ background-color: white;
 }
 .thirdcircle{
     position: absolute;
-    background-color: white;
+
     width: 100px;
     height: 100px;
    border-radius: 90px;

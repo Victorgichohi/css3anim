@@ -17,11 +17,7 @@ h2{
     margin-right: 1050px;
 
 }
-.therectangle{
-    width: 200px;
-    height: 100px;
-    background-color: white;
-}
+
 .square{
     position: absolute;
     background-color: blue;
@@ -48,6 +44,11 @@ h2{
     margin-left: 500px;
     margin-right: 700px;
     top:20%;
+}
+.therectangle{
+    width: 200px;
+    height: 100px;
+    background-color: white;
 }
 .circle{
     position: absolute;
